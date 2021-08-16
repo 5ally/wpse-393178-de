@@ -1,0 +1,81 @@
+# Copyright (C) 2021 Sally CJ
+# This file is distributed under the same license as the WPSE 393178 DE plugin.
+msgid ""
+msgstr ""
+"Project-Id-Version: WPSE 393178 DE 1.0\n"
+"Report-Msgid-Bugs-To: https://wordpress.org/support/plugin/wpse-393178-de\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"POT-Creation-Date: 2021-08-16T10:12:55+00:00\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"X-Generator: WP-CLI 2.5.0\n"
+"X-Domain: wpse-393178-de\n"
+
+#. Plugin Name of the plugin
+#: class-wpse-393178-de-admin.php:10
+#: class-wpse-393178-de-admin.php:11
+msgid "WPSE 393178 DE"
+msgstr ""
+
+#. Plugin URI of the plugin
+msgid "https://wordpress.stackexchange.com/a/393178"
+msgstr ""
+
+#. Description of the plugin
+msgid "Setzen des Gebietsschemas vor dem Abrufen von Gettext-Übersetzungen mit <code>switch_to_locale()</code> :)"
+msgstr ""
+
+#. Author of the plugin
+msgid "Sally CJ"
+msgstr ""
+
+#: admin-page.php:10
+msgid "AJAX-Text laden"
+msgstr ""
+
+#: admin-page.php:11
+msgid "(klicken Sie hier, wenn Sie überprüfen möchten, ob die Lokalisierung dieses Plugins während einer AJAX-Anfrage richtig funktioniert)"
+msgstr ""
+
+#. translators: %s: Locale like en_US
+#: admin-page.php:25
+msgid "Aktuelles Gebietsschema ist <i>%s</i>"
+msgstr ""
+
+#: admin-page.php:34
+msgid "Zum Gebietsschema wechseln:"
+msgstr ""
+
+#: admin-page.php:44
+msgid "einreichen"
+msgstr ""
+
+#. translators: %s: Locale like en_US
+#: admin-page.php:59
+msgid "Gebietsschema auf <i>%s</i> umgestellt"
+msgstr ""
+
+#. translators: %s: Locale like en_US
+#: admin-page.php:75
+msgid "Gebietsschema auf <i>%s</i> wiederhergestellt"
+msgstr ""
+
+#: class-wpse-393178-de-admin.php:37
+msgid "Ausgabe von"
+msgstr ""
+
+#. translators: %1$d: A random number. %2$s: Locale like en_US
+#: class-wpse-393178-de-admin.php:48
+msgid "AJAX-Text geladen - <i>Zufallszahl: %1$d.</i> Das aktuelle Gebietsschema ist <b>%2$s</b>."
+msgstr ""
+
+#: admin-script.js:26
+msgid "Anfrage fehlgeschlagen! Versuchen Sie es später noch einmal."
+msgstr ""
+
+#: admin-script.js:33
+msgid "Skriptübersetzungen OK"
+msgstr ""

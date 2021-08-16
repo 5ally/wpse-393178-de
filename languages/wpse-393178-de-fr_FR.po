@@ -1,0 +1,93 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: WPSE 393178 DE 1.0\n"
+"Report-Msgid-Bugs-To: https://wordpress.org/support/plugin/wpse-393178-de\n"
+"Last-Translator: \n"
+"Language-Team: French (France)\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"POT-Creation-Date: 2021-08-15T09:59:33+00:00\n"
+"PO-Revision-Date: 2021-08-16 10:16+0000\n"
+"Language: fr_FR\n"
+"X-Generator: Loco https://localise.biz/\n"
+"X-Domain: wpse-393178-de\n"
+"Plural-Forms: nplurals=2; plural=n > 1;\n"
+"X-Loco-Version: 2.5.3; wp-5.8\n"
+
+#: admin-page.php:11
+msgid ""
+"(klicken Sie hier, wenn Sie überprüfen möchten, ob die Lokalisierung dieses "
+"Plugins während einer AJAX-Anfrage richtig funktioniert)"
+msgstr ""
+"(cliquez si vous voulez vérifier si la localisation de ce plugin fonctionne "
+"correctement lors d'une requête AJAX)"
+
+#. translators: %1$d: A random number. %2$s: Locale like en_US
+#: class-wpse-393178-de-admin.php:48
+msgid ""
+"AJAX-Text geladen - <i>Zufallszahl: %1$d.</i> Das aktuelle Gebietsschema ist "
+"<b>%2$s</b>."
+msgstr ""
+"Texte AJAX chargé - <i>Nombre aléatoire : %1$d.</i> La langue actuelle est "
+"<b>%2$s</b>."
+
+#: admin-page.php:10
+msgid "AJAX-Text laden"
+msgstr "Charger du texte AJAX"
+
+#. translators: %s: Locale like en_US
+#: admin-page.php:25
+msgid "Aktuelles Gebietsschema ist <i>%s</i>"
+msgstr "Les paramètres régionaux actuels sont <i>%s</i>"
+
+#: admin-script.js:26
+msgid "Anfrage fehlgeschlagen! Versuchen Sie es später noch einmal."
+msgstr "Demande échoué! Réessayez plus tard."
+
+#: class-wpse-393178-de-admin.php:37
+msgid "Ausgabe von"
+msgstr "Sortie de"
+
+#: admin-page.php:44
+msgid "einreichen"
+msgstr "Soumettre"
+
+#. translators: %s: Locale like en_US
+#: admin-page.php:59
+msgid "Gebietsschema auf <i>%s</i> umgestellt"
+msgstr "Les paramètres régionaux sont passés à <i>%s</i>"
+
+#. translators: %s: Locale like en_US
+#: admin-page.php:75
+msgid "Gebietsschema auf <i>%s</i> wiederhergestellt"
+msgstr "Paramètres régionaux restaurés sur <i>%s</i>"
+
+#. Plugin URI of the plugin
+msgid "https://wordpress.stackexchange.com/a/393178"
+msgstr ""
+
+#. Author of the plugin
+msgid "Sally CJ"
+msgstr ""
+
+#. Description of the plugin
+msgid ""
+"Setzen des Gebietsschemas vor dem Abrufen von Gettext-Übersetzungen mit "
+"<code>switch_to_locale()</code> :)"
+msgstr ""
+"Définir les paramètres régionaux avant de récupérer les traductions de "
+"gettext à l'aide de <code>switch_to_locale()</code> :)"
+
+#: admin-script.js:33
+msgid "Skriptübersetzungen OK"
+msgstr "Traductions de scripts OK"
+
+#. Plugin Name of the plugin
+#: class-wpse-393178-de-admin.php:10 class-wpse-393178-de-admin.php:11
+msgid "WPSE 393178 DE"
+msgstr ""
+
+#: admin-page.php:34
+msgid "Zum Gebietsschema wechseln:"
+msgstr "Basculez vers les paramètres régionaux :"
